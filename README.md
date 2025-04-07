@@ -96,9 +96,27 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
-  
-  
+ ## Output
+ ## site:lenskart.com:
+ ![image](https://github.com/user-attachments/assets/dca2ac53-a7d9-40b3-9b69-8ea2caf0fbe0)
+
+## site:lenskart.com and filetype:pdf
+![image](https://github.com/user-attachments/assets/46707940-0815-4dd8-beae-6a8d252c3eea)
+
+## site:lenskart.com and intext:password
+![image](https://github.com/user-attachments/assets/d5e6d763-9022-4990-ae08-1322d692c537)
+
+## inurl:admin
+
+![image](https://github.com/user-attachments/assets/4b2d900b-00c2-49c8-9656-c256a3473720)
+
+## inurl:index of
+
+![image](https://github.com/user-attachments/assets/acdd9dbc-25c2-421d-94dc-b51f2dc4e28b)
+
+
+## link:lenskart.com
+![image](https://github.com/user-attachments/assets/cad2a4f5-2f7a-4002-b222-c0966083f7f3)
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
