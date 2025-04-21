@@ -62,6 +62,7 @@ Top level domain expansion
 ## OUTPUT:
 
 
+![image](https://github.com/user-attachments/assets/eab125f2-9ba2-4b9e-add4-67ffc8b86782)
 
 
 
